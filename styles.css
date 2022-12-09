@@ -1,0 +1,14 @@
+*,
+html,
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.fContainer {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+}
